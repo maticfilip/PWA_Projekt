@@ -1,0 +1,25 @@
+.btn{
+    background-color: #f03800 !important;
+    border:none;
+}
+
+.btn:hover{
+    background-color: #7c1d00;
+    transition:0.5s all;
+}
+
+a, h1, h2, h3, h4, .text-primary{
+    text-decoration: none;
+    color:#f03800 !important;
+}
+
+a:hover{
+    cursor:pointer;
+    color:#7c1d00;
+}
+
+.img-smanjeno{
+    float:left;
+    margin-right:50px;
+}
+
